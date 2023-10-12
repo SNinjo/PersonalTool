@@ -1,0 +1,6 @@
+/**
+ * @license
+ * author: SNinjo <contact@SNinjo.com> (https://SNinjo.com)
+ * outward v1.0.1
+ * Released under the MIT license.
+ */
